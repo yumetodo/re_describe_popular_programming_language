@@ -73,3 +73,25 @@ C99よりC言語でも使えます。
 >§6.4.9 Comments  
 >2 Except within a character constant, a string literal, or a comment, the characters ``//``
 introduce a comment that includes all multibyte characters up to, but not including, the next new-line character. The contents of such a comment are examined only to identify multibyte characters and to find the terminating new-line character.
+
+## Java
+
+>http://cpg.hatenablog.com/entry/2016/06/30/193755  
+>JavaはAndroidアプリを開発する際に必要な言語です。
+
+んなことはない。Android NDK（Native Development Kit）がなんのためにあるんだ。
+
+あと、AndroidのJavaはJavaじゃない、みたいな話も有りましたね
+
+Javaと偽Javaの話。 - なるようになるかも
+http://quesera2.hatenablog.jp/entry/2016/05/28/180834
+
+---
+
+>http://cpg.hatenablog.com/entry/2016/06/30/193755
+>C言語に匹敵する処理速度を誇り
+
+[Java](https://ja.wikipedia.org/wiki/Java)は元々、プラットフォームに依存せず扱いやすい言語を目指して開発されました。[Javaアプレット](https://ja.wikipedia.org/wiki/Java%E3%82%A2%E3%83%97%E3%83%AC%E3%83%83%E3%83%88)から始まったその発展は、クライアントやサーバー、パソコンや組込み機器など多岐に渡ります。  
+[Android OS](https://ja.wikipedia.org/wiki/Android)用のソフト開発に使われるのは主にC/C++かJavaですが、前者のアプリはネイティブで実行され、後者は[Dalvik仮想マシン](https://ja.wikipedia.org/wiki/Dalvik%E4%BB%AE%E6%83%B3%E3%83%9E%E3%82%B7%E3%83%B3)(Android 4.4以前)か[ART仮想マシン](https://ja.wikipedia.org/wiki/Android_Runtime)(Android 4.4以降)で実行されます。  
+昨今では、[Xamarin.Android](http://www.xlsoft.com/jp/products/xamarin/platform.html)によって[C#](https://ja.wikipedia.org/wiki/C_Sharp)でもAndroidアプリを開発できるようになりました。  
+なお、「ソースコードから生成したバイトコードを仮想マシン(VM)上で動かす」性質上、速度は比較的遅い方です。
