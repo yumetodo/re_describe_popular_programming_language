@@ -100,6 +100,11 @@ http://quesera2.hatenablog.jp/entry/2016/05/28/180834
 昨今では、[Xamarin.Android](http://www.xlsoft.com/jp/products/xamarin/platform.html)によって[C#](https://ja.wikipedia.org/wiki/C_Sharp)でもAndroidアプリを開発できるようになりました。  
 なお、「ソースコードから生成したバイトコードを仮想マシン(VM)上で動かす」性質上、速度は比較的遅い方です。
 
+>https://toiroha.jp/article/detail/32380  
+>Javaは成熟した傾向があり、最近の主流の言語から置いていかれた傾向があります。そのため、あまり新しい機能が追加されることが少ないです。
+
+いつのJavaのお話ですか？Java7, Java8でじゃんじゃん進化してますよ。
+
 ## JavaScript
 
 >http://cpg.hatenablog.com/entry/2016/06/30/193755  
