@@ -102,6 +102,27 @@ http://quesera2.hatenablog.jp/entry/2016/05/28/180834
 
 ## JavaScript
 
+>http://cpg.hatenablog.com/entry/2016/06/30/193755  
+>JavaScriptはWebページを作成する際に必要な言語です。
+
+たしかによく使われていますが、なくたって作れます。
+
+>http://cpg.hatenablog.com/entry/2016/06/30/193755  
+>例えば、jQueryはJavaScriptのプラグイン。つまりJavaScriptによって書かれた便利な機能をjQueryの簡単な文法を使うことで気軽に利用出来るものです。
+
+何を言っているのかわからないんですがそれは・・・。jQueryはライブラリであって、文法やないで。
+
+>http://cpg.hatenablog.com/entry/2016/06/30/193755  
+>視覚的に組み込まれているのがJavaScriptの特徴
+
+視覚的とは
+
+>http://d.hatena.ne.jp/shi3z/20160701/1467330446  
+>JavaScriptは、C言語よりも歴史が古いLISP言語の影響を強く受けた関数型言語で
+
+関数型言語と言うよりはプロトタイプベースのオブジェクト指向では？
+
+
 ## C#
 
 ## Ruby
