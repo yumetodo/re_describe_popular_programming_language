@@ -106,6 +106,7 @@ http://quesera2.hatenablog.jp/entry/2016/05/28/180834
 
 ## Ruby
 
+>http://cpg.hatenablog.com/entry/2016/06/30/193755  
 > Rubyの特徴として、自由な点があります。
 
 **もう少し詳しく書いてくれないとツッコむ部分がないではありませんか(暗黒微笑)**
@@ -114,12 +115,14 @@ http://quesera2.hatenablog.jp/entry/2016/05/28/180834
 
 ## Python
 
+>http://cpg.hatenablog.com/entry/2016/06/30/193755  
 > AI(人工知能)にプログラミング言語を組み込むことで
 
 プログラミング言語で機械学習を実装するのでは……？
 
 ## Swift
 
+>http://cpg.hatenablog.com/entry/2016/06/30/193755  
 > Swiftは、Appleが開発したiPhoneアプリを開発する際に必要な言語です。
 
 **[Xamarin.iOS](http://www.xlsoft.com/jp/products/xamarin/platform.html)がアップを始めました。**
