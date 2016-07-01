@@ -122,9 +122,6 @@ http://quesera2.hatenablog.jp/entry/2016/05/28/180834
 
 関数型言語と言うよりはプロトタイプベースのオブジェクト指向では？
 
-
-## C#
-
 ## Ruby
 
 >http://cpg.hatenablog.com/entry/2016/06/30/193755  
