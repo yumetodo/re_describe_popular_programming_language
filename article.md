@@ -48,4 +48,28 @@
 >https://cpplover.blogspot.jp/2015/03/blog-post_30.html  
 >Pythonや、その他の動的型付け言語は、十分に速いかもしれないが、速いことは常にいいことだ。Cのような低級言語で速度を稼げるかもしれないし、アセンブリを手書きすることでもう少し上を行けるかもしれないが、コンパイラーを信頼したほうがいい。しかし、もし大量の12bitの数値を限りなく高速に足し合わせたいのであれば、まあ、これが答えだ
 
+---
 
+>https://toiroha.jp/article/detail/32380  
+>オブジェクト指向言語ではないので、最近の主流の言語から比べると少し時代遅れの感があります。（C++はC言語にオブジェクト指向を拡張したものです）
+
+C++はC言語にオブジェクト指向を拡張したものではないし、C言語はC++の下位にある言語ではありません。全くの別言語です
+
+## C++
+
+>http://d.hatena.ne.jp/shi3z/20160701/1467330446  
+>Cとほとんどの部分で共通しており、C++はC言語の上位互換です。
+
+C++は、**断じて**C言語の上位互換ではありません。
+
+---
+
+>http://d.hatena.ne.jp/shi3z/20160701/1467330446  
+>例えばC言語ではコメントは/*～*/しか使えませんが、C++では//が使えます。
+
+C99よりC言語でも使えます。
+
+>http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf  
+>§6.4.9 Comments  
+>2 Except within a character constant, a string literal, or a comment, the characters ``//``
+introduce a comment that includes all multibyte characters up to, but not including, the next new-line character. The contents of such a comment are examined only to identify multibyte characters and to find the terminating new-line character.
