@@ -100,6 +100,8 @@ http://quesera2.hatenablog.jp/entry/2016/05/28/180834
 昨今では、[Xamarin.Android](http://www.xlsoft.com/jp/products/xamarin/platform.html)によって[C#](https://ja.wikipedia.org/wiki/C_Sharp)でもAndroidアプリを開発できるようになりました。  
 なお、「ソースコードから生成したバイトコードを仮想マシン(VM)上で動かす」性質上、速度は比較的遅い方です。
 
+---
+
 >https://toiroha.jp/article/detail/32380  
 >Javaは成熟した傾向があり、最近の主流の言語から置いていかれた傾向があります。そのため、あまり新しい機能が追加されることが少ないです。
 
@@ -112,15 +114,21 @@ http://quesera2.hatenablog.jp/entry/2016/05/28/180834
 
 たしかによく使われていますが、なくたって作れます。
 
+---
+
 >http://cpg.hatenablog.com/entry/2016/06/30/193755  
 >例えば、jQueryはJavaScriptのプラグイン。つまりJavaScriptによって書かれた便利な機能をjQueryの簡単な文法を使うことで気軽に利用出来るものです。
 
 何を言っているのかわからないんですがそれは・・・。jQueryはライブラリであって、文法やないで。
 
+---
+
 >http://cpg.hatenablog.com/entry/2016/06/30/193755  
 >視覚的に組み込まれているのがJavaScriptの特徴
 
 視覚的とは
+
+---
 
 >http://d.hatena.ne.jp/shi3z/20160701/1467330446  
 >JavaScriptは、C言語よりも歴史が古いLISP言語の影響を強く受けた関数型言語で
@@ -150,6 +158,16 @@ PHPは良う知らんのではてブより
 > AI(人工知能)にプログラミング言語を組み込むことで
 
 プログラミング言語で機械学習を実装するのでは……？
+
+---
+
+>http://cpg.hatenablog.com/entry/2016/06/30/193755  
+>その際に必要な言語がPythonです。
+
+そんなことはない、現に画像処理で一躍有名になった[waifu2x](http://kourindrug.sakura.ne.jp/waifu2x.html)はC++やHSP、Rustなどでも実装されています(というか圧倒的にC++多い)
+
+なおpythonは数学屋さんや、画像処理屋さんが使っているイメージがあります。
+
 
 ## Swift
 
