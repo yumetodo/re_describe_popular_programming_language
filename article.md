@@ -112,7 +112,7 @@ http://quesera2.hatenablog.jp/entry/2016/05/28/180834
 >http://cpg.hatenablog.com/entry/2016/06/30/193755  
 >JavaScriptはWebページを作成する際に必要な言語です。
 
-たしかによく使われていますが、なくたって作れます。
+たしかによく使われていますが、なくたって作れます。HTMLあれば極論作れます
 
 ---
 
