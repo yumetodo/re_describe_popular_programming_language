@@ -99,3 +99,13 @@ http://quesera2.hatenablog.jp/entry/2016/05/28/180834
 [Android OS](https://ja.wikipedia.org/wiki/Android)用のソフト開発に使われるのは主にC/C++かJavaですが、前者のアプリはネイティブで実行され、後者は[Dalvik仮想マシン](https://ja.wikipedia.org/wiki/Dalvik%E4%BB%AE%E6%83%B3%E3%83%9E%E3%82%B7%E3%83%B3)(Android 4.4以前)か[ART仮想マシン](https://ja.wikipedia.org/wiki/Android_Runtime)(Android 4.4以降)で実行されます。  
 昨今では、[Xamarin.Android](http://www.xlsoft.com/jp/products/xamarin/platform.html)によって[C#](https://ja.wikipedia.org/wiki/C_Sharp)でもAndroidアプリを開発できるようになりました。  
 なお、「ソースコードから生成したバイトコードを仮想マシン(VM)上で動かす」性質上、速度は比較的遅い方です。
+
+## JavaScript
+
+## C#
+
+## Ruby
+
+## PHP
+
+## Python
