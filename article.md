@@ -92,7 +92,7 @@ http://quesera2.hatenablog.jp/entry/2016/05/28/180834
 
 ---
 
->http://cpg.hatenablog.com/entry/2016/06/30/193755
+>http://cpg.hatenablog.com/entry/2016/06/30/193755  
 >C言語に匹敵する処理速度を誇り
 
 [Java](https://ja.wikipedia.org/wiki/Java)は元々、プラットフォームに依存せず扱いやすい言語を目指して開発されました。[Javaアプレット](https://ja.wikipedia.org/wiki/Java%E3%82%A2%E3%83%97%E3%83%AC%E3%83%83%E3%83%88)から始まったその発展は、クライアントやサーバー、パソコンや組込み機器など多岐に渡ります。  
