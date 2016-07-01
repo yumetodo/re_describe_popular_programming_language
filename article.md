@@ -136,6 +136,14 @@ http://quesera2.hatenablog.jp/entry/2016/05/28/180834
 
 ## PHP
 
+>http://d.hatena.ne.jp/shi3z/20160701/1467330446  
+>PHPはApacheと一体化してるので
+
+PHPは良う知らんのではてブより
+
+>http://b.hatena.ne.jp/entry/292721861/comment/living
+>「PHPはApacheと一体化してる」mod_phpも使ってるけど、パフォーマンスを求める場合はPHP-FPM（要はFastCGI）の方が多いと思う
+
 ## Python
 
 >http://cpg.hatenablog.com/entry/2016/06/30/193755  
